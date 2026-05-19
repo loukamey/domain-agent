@@ -98,7 +98,7 @@ def hourly_check():
     urgent = check_urgent(domains)
     if urgent:
         domain = urgent[0]
-        alert = f"🚨🔴🚨🔴🚨🔴🚨🔴🚨\n\n<b>LOUKA — ACT NOW</b>\n\n<b>{domain}</b> — premium short domain expiring NOW. Could sell for $500-2,000+.\n\n→ namecheap.com — buy for ~$12\n\n⏰ {datetime.now().strftime('%H:%M')} Dubai time"
+        alert = f"🚨‼️\n\n<b>LOUKA — ACT NOW</b>\n\n<b>{domain}</b> — premium short domain expiring NOW. Could sell for $500-2,000+.\n\n→ namecheap.com — buy for ~$12\n\n⏰ {datetime.now().strftime('%H:%M')} Dubai time"
         send_telegram(alert)
         print("URGENT DOMAIN ALERT SENT")
 
