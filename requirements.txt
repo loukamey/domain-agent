@@ -1,0 +1,4 @@
+requests
+anthropic
+schedule
+beautifulsoup4
