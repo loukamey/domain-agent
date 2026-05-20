@@ -10,8 +10,8 @@ import anthropic
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 TELEGRAM_TOKEN = "8982283074:AAGt48KiXFQaBjDM-mOIZJf6BjlCjvZRIdQ"
 TELEGRAM_CHAT_ID = "8526660731"
-GODADDY_KEY = "3mM44YwfTALAHB_N34T2ixsfpPa6v8kGufv7f"
-GODADDY_SECRET = "MLPFme9ScsrNoUrkJZnamF"
+GODADDY_KEY = "hkTZnBsatcP5_5pdqfYUZ62PyBL7ZSFsQE7"
+GODADDY_SECRET = "PqsePsSV1rYMXnaYbPSYst"
 
 TRENDING_KEYWORDS = [
     "dubai", "uae", "ai", "crypto", "luxury", "gold", "invest",
