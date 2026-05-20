@@ -12,13 +12,15 @@ TELEGRAM_TOKEN = "8982283074:AAGt48KiXFQaBjDM-mOIZJf6BjlCjvZRIdQ"
 TELEGRAM_CHAT_ID = "8526660731"
 
 TRENDING_DOMAINS_TO_CHECK = [
-    "dubaiAIagent.com", "UAEcrypto.com", "goldinvest.ae",
-    "AIcoachDubai.com", "luxuryAIdubai.com", "smartgoldinvest.com",
-    "dubaipropAI.com", "UAEAIhub.com", "cryptogulfinvest.com",
-    "AIwealthdubai.com", "dubaistartupAI.com", "UAEluxuryhub.com",
-    "gulfcryptohub.com", "AIfinancedubai.com", "dubaiNFThub.com",
-    "smartUAEinvest.com", "AIrealestatedubai.com", "dubaigoldhub.com",
-    "UAEwealthAI.com", "cryptodubaiPRO.com"
+    "dubaiai.pro", "gulfaiagent.com", "aimenordubai.com",
+    "dubaiwebai.com", "uaefintech.pro", "aicoachuae.com",
+    "dubaicryptobot.com", "smartdubaiapp.com", "uaetradingai.com",
+    "dubaiblockchain.pro", "aistartupuae.com", "dubaidefiapp.com",
+    "uaeluxuryai.com", "gulfproptech.com", "dubaiaicoach.com",
+    "uaecryptobot.com", "aidubaiwealth.com", "gulfsmartinvest.com",
+    "dubaitechpro.com", "uaeaimentor.com", "gulfaimentor.com",
+    "dubaiaitrader.com", "uaewealthbot.com", "gulfcryptoai.com",
+    "dubaismarthome.pro", "uaeproptechAI.com", "airealestateuae.com"
 ]
 
 def send_telegram(message):
